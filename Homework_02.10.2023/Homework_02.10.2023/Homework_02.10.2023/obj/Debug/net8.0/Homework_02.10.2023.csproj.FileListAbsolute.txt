@@ -1,0 +1,14 @@
+E:\C#\C#_Homeworks\Homework_02.10.2023\Homework_02.10.2023\Homework_02.10.2023\obj\Debug\net8.0\Homework_02.10.2023.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C#_Homeworks\Homework_02.10.2023\Homework_02.10.2023\Homework_02.10.2023\obj\Debug\net8.0\Homework_02.10.2023.AssemblyInfoInputs.cache
+E:\C#\C#_Homeworks\Homework_02.10.2023\Homework_02.10.2023\Homework_02.10.2023\obj\Debug\net8.0\Homework_02.10.2023.AssemblyInfo.cs
+E:\C#\C#_Homeworks\Homework_02.10.2023\Homework_02.10.2023\Homework_02.10.2023\obj\Debug\net8.0\Homework_02.10.2023.csproj.CoreCompileInputs.cache
+E:\C#\C#_Homeworks\Homework_02.10.2023\Homework_02.10.2023\Homework_02.10.2023\bin\Debug\net8.0\Homework_02.10.2023.exe
+E:\C#\C#_Homeworks\Homework_02.10.2023\Homework_02.10.2023\Homework_02.10.2023\bin\Debug\net8.0\Homework_02.10.2023.deps.json
+E:\C#\C#_Homeworks\Homework_02.10.2023\Homework_02.10.2023\Homework_02.10.2023\bin\Debug\net8.0\Homework_02.10.2023.runtimeconfig.json
+E:\C#\C#_Homeworks\Homework_02.10.2023\Homework_02.10.2023\Homework_02.10.2023\bin\Debug\net8.0\Homework_02.10.2023.dll
+E:\C#\C#_Homeworks\Homework_02.10.2023\Homework_02.10.2023\Homework_02.10.2023\bin\Debug\net8.0\Homework_02.10.2023.pdb
+E:\C#\C#_Homeworks\Homework_02.10.2023\Homework_02.10.2023\Homework_02.10.2023\obj\Debug\net8.0\Homework_02.10.2023.dll
+E:\C#\C#_Homeworks\Homework_02.10.2023\Homework_02.10.2023\Homework_02.10.2023\obj\Debug\net8.0\refint\Homework_02.10.2023.dll
+E:\C#\C#_Homeworks\Homework_02.10.2023\Homework_02.10.2023\Homework_02.10.2023\obj\Debug\net8.0\Homework_02.10.2023.pdb
+E:\C#\C#_Homeworks\Homework_02.10.2023\Homework_02.10.2023\Homework_02.10.2023\obj\Debug\net8.0\Homework_02.10.2023.genruntimeconfig.cache
+E:\C#\C#_Homeworks\Homework_02.10.2023\Homework_02.10.2023\Homework_02.10.2023\obj\Debug\net8.0\ref\Homework_02.10.2023.dll
